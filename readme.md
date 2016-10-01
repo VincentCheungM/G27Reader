@@ -28,5 +28,5 @@ In _**oldDriver**_ folder:
 
 `LogitechSteeringWheelLib.h` : .h file for the library
 
-
+> maybe you need to install the DirectX
 
